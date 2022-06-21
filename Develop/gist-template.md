@@ -1,10 +1,14 @@
-# Title (replace with your title)
+# Regex Breakdown
 
-Introductory paragraph (replace this with your text)
+This is my challenge for week 17, interpretting a line of Regex code and breaking it down, explaining exactly what the piece of code is checking against. I will breakdown portions of a regex line and explain each piece of the code to demonstrate an understanding of what is going on with the code.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+I have selected to breakdown the regex for matching a hex value. This is the code snippet:
+
+"/^#?([a-f0-9]{6}|[a-f0-9]{3})$/"
+
+I will be breaking down each individual element here and also explaining what the specific fields are looking for (ex, entire alphabet or just a portion of the alphabet).
 
 ## Table of Contents
 
@@ -21,6 +25,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
+This regex string contains several components. The 
 
 ### Anchors
 
