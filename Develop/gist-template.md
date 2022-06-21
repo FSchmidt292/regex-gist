@@ -41,4 +41,4 @@ The Bracket Expressions in this string are [a-f0-9]. This is written in this way
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+[My Github!](https://github.com/FSchmidt292)
